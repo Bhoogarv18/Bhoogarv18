@@ -68,7 +68,6 @@ When I am not coding, you'll find me going out with friends or listening to musi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=bhoogarv18&theme=darcula&hide_border=false&include_all_commits=true&count_private=true"<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoogarv18&theme=darcula&hide_border=false"/>
 
 </p>
